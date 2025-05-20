@@ -1,3 +1,6 @@
+由于Github不能上传空文件夹，因此导入补丁时需要手动创建指定路径才行！
+Since Github can't upload empty folders, you need to manually create a specified path when importing patches!
+
 1.21.0~1.21.3作为起始版本开始，可共用一个世界；
 1.21.4区块变更，不能使用旧版世界开始游戏！
 1.21.5区块变更，不能使用旧版世界开始游戏！；此外命令语法变更，不能使用旧版命令，如果是旧版世界需手动导入补丁于指定位置才行！
