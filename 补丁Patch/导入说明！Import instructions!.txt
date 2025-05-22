@@ -1,0 +1,3 @@
+将压缩包中的“generated”文件夹解压到世界根目录以完成旧世界更新！
+
+Extract the "generated" folder from the Zip-package to the archive root directory to complete the old world update!
