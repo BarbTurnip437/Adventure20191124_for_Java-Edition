@@ -1,3 +1,5 @@
-将压缩包中的“generated”文件夹解压到存档根目录以完成旧世界更新！
+将压缩包中的“generated”文件夹解压到世界根目录以完成旧世界更新！
+使路径达成：世界根目录:\generated\minecraft\structures\basic_update.nbt
 
-Extract the "generated" folder from the Zip-package to the archive root directory to complete the old world update!
+Extract the "generated" folder from the Zip-package to the World-root directory to complete the old world update!
+Make the path reach: World-root:\generated\minecraft\structures\basic_update.nbt
