@@ -36,9 +36,9 @@ you won't starve to death inside the dungeon. But there can be no malicious acts
 Players always gets a free buff at the spawn point, giving the player a regeneration effect for survival.
 
 **If it's your first time playing**, choose the correct version of the world as your starting save to start playing,\
-And distinguish between Normal and Hardcore.
+And distinguish between Normal and Hardcore.\
 If it is an old world update, please select the corresponding version of the patch and import it according to the correct path.\
-The path is as follows: .\generated\minecraft\structures\basic_update.nbt
+The path is as follows: .\generated\minecraft\structures\basic_update.nbt\
 Since Github can't upload empty folders, you need to manually create a specified path when importing patches.
 
 ### Update Log
