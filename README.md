@@ -10,9 +10,15 @@
 如果是旧世界更新，请选择对应版本的补丁按正确路径导入即可！路径如下：世界根目录:\generated\minecraft\structures\basic_update.nbt\
 由于Github不能上传空文件夹，因此导入补丁时需要手动创建指定路径才行！\
 
+### 更新日志
+
+1.21.0~1.21.3作为起始版本开始，可共用一个世界；
+1.21.4区块变更，不能使用旧版世界开始游戏！
+1.21.5区块变更，不能使用旧版世界开始游戏！；此外命令语法变更，不能使用旧版命令，如果是旧版世界需手动导入补丁于指定位置才行！
+
 ---
 
-## Wellcome to the Adventure20191124!
+## Wellcome to Adventure20191124!
 Supports English and Chinese
 
 You can enjoy an extraordinary experience here, Similar to regular survival, but with the following gamerules: 
@@ -34,3 +40,17 @@ And distinguish between Normal and Hardcore.
 If it is an old world update, please select the corresponding version of the patch and import it according to the correct path.\
 The path is as follows: .\generated\minecraft\structures\basic_update.nbt
 Since Github can't upload empty folders, you need to manually create a specified path when importing patches.
+
+### Update Log
+
+(Cbscfe: well... this is NOT a update log... but I guess it's called that way)
+
+```text
+1.21.0~1.21.3 starts as the initial version, and can share a world;
+1.21.4 chunk update, you can't start the game with the old world!
+1.21.5 chunk update, you can't start the game with the old world!; In addition, the command syntax has been updated, you can't use the old version of the command, If it's an old world, you need to manually import the patch to the specified location!
+```
+
+---
+
+![kit_preview.png](kit_preview.png)
