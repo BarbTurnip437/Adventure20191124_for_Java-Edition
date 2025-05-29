@@ -1,7 +1,0 @@
-如果是第一次游玩，请选择正确的世界版本作为起始存档开始游戏！区分普通生存和极限生存！
-如果是旧世界更新，请选择对应版本的补丁按正确路径导入即可！路径如下：世界根目录:\generated\minecraft\structures\basic_update.nbt
-由于Github不能上传空文件夹，因此导入补丁时需要手动创建指定路径才行！
-
-If it's your first time playing, choose the correct version of the world as your starting save to start playing! Distinguish between Normal-survival and Hardcore-survival!
-If it is an old world update, please select the corresponding version of the patch and import it according to the correct path! The path is as follows: World Root:\generated\minecraft\structures\basic_update.nbt
-Since Github can't upload empty folders, you need to manually create a specified path when importing patches!
