@@ -1,6 +1,8 @@
-## Wellcome to Adventure20191124!
+# Wellcome to Adventure20191124!
 | [简体中文](README_zh_cn.md) | English |
 | ---- | ---- |
+
+---
 
 Supports English and Chinese. (by showing both)
 
