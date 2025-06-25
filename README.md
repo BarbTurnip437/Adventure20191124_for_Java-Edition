@@ -1,4 +1,7 @@
-## 欢迎来到冒险生存20191124
+## 欢迎来到冒险生存20191124！
+| 简体中文 | [English](README.md) |
+| ---- | ---- |
+
 支持中英双语。（同时显示双语）
 
 在这里可以享受不一般的体验。与常规生存类似，但是有以下区别：
@@ -28,6 +31,9 @@
 ---
 
 ## Wellcome to Adventure20191124!
+| [简体中文](README_zh_cn.md) | English |
+| ---- | ---- |
+
 Supports English and Chinese. (by showing both)
 
 You can enjoy an extraordinary experience here, Similar to regular survival, but with the following gamerules: 
