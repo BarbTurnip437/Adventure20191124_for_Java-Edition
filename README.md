@@ -11,9 +11,9 @@ You can enjoy an extraordinary experience here, Similar to regular survival, but
 - no natural regeneration
 - no keep inventory
 
-There is a dungeon mall where you can pay to unlock kits and enchantments, as well purchase items,\
+There is a dungeon mall where you can pay to unlock professions and enchantments, as well purchase items,\
 which require a lot of emeralds as currency.\
-The equipment and tools of the chosen kit are unbreakable, so you don't have to worry about durability,\
+The equipment and tools of the chosen profession are unbreakable, so you don't have to worry about durability,\
 so remember not to disassemble and consume the equipment and tools!\
 It's relatively safe inside the dungeon, there is no threat from hostile mobs, and even if you do nothing,\
 you won't starve to death inside the dungeon. But there can be no malicious acts.
@@ -40,4 +40,4 @@ Since Github can't upload empty folders, you need to manually create a specified
 
 ---
 
-![kit_preview.png](kit_preview.png)
+![profession_preview.png](profession_preview.png)
