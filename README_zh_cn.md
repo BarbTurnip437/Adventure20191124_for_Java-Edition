@@ -32,4 +32,4 @@
 
 ---
 
-![kit_preview.png](kit_preview.png)
+![profession_preview.png](profession_preview.png)
